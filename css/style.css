@@ -1,6 +1,5 @@
 * {
     margin: auto;
-    padding: 0;
     box-sizing: border-box;
 }
 
@@ -37,4 +36,12 @@
 
 .evidenziato-giallo{
     background-color: yellow;
+}
+
+.paragrafo{
+    margin-bottom: 20px;
+}
+
+.lista{
+    padding-left: 15px;
 }
