@@ -5,6 +5,7 @@
 
 #contenitore{
     margin-left: 5px;
+    margin-top: 20px;
 }
 /* HADER */
 
@@ -58,22 +59,23 @@
 }
 
 #intestazione-tab{
-    background-color: rgb(60, 120, 250);
+    background-color: #20a9e5;
     color: white;
 }
 
-.corpo-tab{
-    background-color: aqua;
-}
 
-th{
-    text-align: left;
-}
-tr{
+
+.tr2{
     height: 60px;
+    background-color: #b1e5f2;
+  
 }
 td{
     width: 200px;
+}
+
+#tr3{
+    height: 60px;
 }
 /* FOOTER */
 
