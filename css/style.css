@@ -63,6 +63,15 @@ header{
     background-color: aqua;
 }
 
+th{
+    text-align: left;
+}
+tr{
+    height: 60px;
+}
+td{
+    width: 200px;
+}
 /* FOOTER */
 
 #foto1{
