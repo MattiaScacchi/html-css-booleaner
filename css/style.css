@@ -45,3 +45,16 @@
     padding-left: 15px;
     margin-bottom: 20px;
 }
+
+#tabella{
+    text-align: left;
+}
+
+#intestazione-tab{
+    background-color: rgb(60, 120, 250);
+    color: white;
+}
+
+.corpo-tab{
+    background-color: aqua;
+}
