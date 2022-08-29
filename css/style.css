@@ -2,6 +2,7 @@
 /* HADER */
 header{
     margin: 0;
+    padding: 0;
     box-sizing: border-box;
 }
 #pattern {
@@ -47,6 +48,8 @@ header{
 }
 
 #tabella{
+    border-collapse: collapse;
+    width: 100%;
     text-align: left;
     margin-bottom: 20px;
 }
